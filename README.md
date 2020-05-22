@@ -4,7 +4,8 @@
 This repository contains code for solving structured total least squares problems, i.e., problems for which both dependent and independent variables contain variable amounts of noise. The method was developed and reported by [Malioutov & Slavov (2014)](http://proceedings.mlr.press/v32/malioutov14.html).
 
 
-<img src="STLS_Comparision.png.png" width="50%">
+
+ [![]({{site.baseurl}}/STLS_Comparision.png.png){:width="80%" .center-image}](https://arxiv.org/abs/1406.0189)
 
 
 ## Reproducing the analysis reported by [Malioutov & Slavov (2014)](http://proceedings.mlr.press/v32/malioutov14.html)
