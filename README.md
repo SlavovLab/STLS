@@ -5,7 +5,7 @@ This repository contains code for solving structured total least squares problem
 
 
 
-![comparing the performance of different methods for structured total least squares problem](/STLS_Comparision.png)
+![comparing the performance of different methods for structured total least squares problem](STLS_Comparision.png)
 
 
 ## Reproducing the analysis reported by [Malioutov & Slavov (2014)](https://arxiv.org/abs/1406.0189)
