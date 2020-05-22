@@ -5,7 +5,7 @@ This repository contains code for solving structured total least squares problem
 
 
 
- [![]({{site.baseurl}}/STLS_Comparision.png.png){:width="80%" .center-image}](https://arxiv.org/abs/1406.0189)
+ [![]({{site.baseurl}}/STLS_Comparision.png){:width="80%" .center-image}](https://arxiv.org/abs/1406.0189)
 
 
 ## Reproducing the analysis reported by [Malioutov & Slavov (2014)](http://proceedings.mlr.press/v32/malioutov14.html)
